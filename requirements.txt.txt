@@ -1,5 +1,0 @@
-openai
-pinecone
-neo4j
-python-dotenv
-sentence-transformers
